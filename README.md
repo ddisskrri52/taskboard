@@ -32,3 +32,5 @@ git clone https://github.com/ddisskrri52/taskboard.git
 3. Запусти `index.html` через Live Server.
 ## Скріншот
 ![Головна сторінка](images/screenshot.png)
+## Демо
+[Відкрити сайт] https://ddisskrri52.github.io/taskboard/
